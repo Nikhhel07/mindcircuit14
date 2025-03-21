@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: fbcont
-          image: nikhhel/nikhhel:httpdc1
+          image: devopshubg333/batch14:tag
           ports:
             - containerPort: 8080
 
